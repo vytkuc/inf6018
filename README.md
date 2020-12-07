@@ -1,2 +1,2 @@
 # inf6018
-##Socialinių medijų analitika
+Socialinių medijų analitika
